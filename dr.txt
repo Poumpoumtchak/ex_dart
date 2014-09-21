@@ -1,0 +1,19 @@
+.gitignore manquant
+
+ex01
+
+attention: formatage
+
+bien
+
+ex02
+
+  ex02.2
+  Answer 2 : 62.800000000000004 ?
+
+bien
+
+ex03
+
+ne peut pas exécuter:
+Breaking on exception: object of type NoSuchMethodError
