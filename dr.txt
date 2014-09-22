@@ -17,3 +17,17 @@ ex03
 
 ne peut pas exécuter:
 Breaking on exception: object of type NoSuchMethodError
+
+ex04
+
+ex04_t.dart --> ex04.dart
+
+consulter https://www.dartlang.org/articles/style-guide/
+
+pas besoin d'importer dart:core
+
+ex04_1
+
+calculer séquence!
+
+
