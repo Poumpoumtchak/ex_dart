@@ -20,6 +20,19 @@ Breaking on exception: object of type NoSuchMethodError
 
 ex04
 
+semblable à exercice 4 de Bernard Prince
+
+17/20
+
+.gitignore.txt --> .gitignore
+
+-1 utiliser le formatage correct 
+voir Dart Style Guide
+
+-2 où sont des fonctions en plus de main pour 2, 3, 4 et 5
+
+---
+
 ex04_t.dart --> ex04.dart
 
 consulter https://www.dartlang.org/articles/style-guide/
