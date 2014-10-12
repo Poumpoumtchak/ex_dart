@@ -5,3 +5,5 @@ ex06
 utiliser le dossier lib  (voir mes exemples)
 
 supprimer les répertoires vides
+
+SVPL utilisez .gitignore et non .gitignore.txt
