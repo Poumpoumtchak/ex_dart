@@ -1,5 +1,7 @@
 ex06
 
+SVPL utilisez .gitignore et non .gitignore.txt
+
 ?/20
 
 utiliser le dossier lib  (voir mes exemples)

@@ -1,0 +1,7 @@
+ex08
+
+?/20
+
+utilisez le dossier lib  (voir mes exemples)
+
+utilisez .gitignore et non .gitignore.txt
