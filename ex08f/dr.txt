@@ -1,5 +1,61 @@
 ex08
 
+8/20
+
+// Sources : https://github.com/dzenanr/association
+// https://github.com/leduy10/ex08/blob/master/bin/functions.dart
+// https://github.com/dzenanr/association_members
+
+-1
+utilisez .gitignore et non .gitignore.txt
+
+-2
+pas de lib
+
+la bibliothèque (library) doit être dans le répertoire lib
+library function;
+
+8.1
+-1
+  List Begin(List members, String letter) {
+-->
+  List begin(List members, String letter) {
+ 
+ attention au formatage
+ 
+ -1
+   var members = [ 
+           {"assocName": "IS", "firstName": "Valentin", "lastName": "Rançon", "email": "vr@gmail.com"}, 
+           {"assocName": "CS", "firstName": "Pierre", "lastName": "Rançon", "email": "pr@gmail.com"}, 
+           {"assocName": "CS", "firstName": "Maxime", "lastName": "Rançon", "email": "maxran@gmail.com"}, 
+           {"assocName": "IS", "firstName": "Hugo", "lastName": "Rançon", "email": "hr@gmail.com"}, 
+           {"assocName": "CS", "firstName": "Geoffrey", "lastName": "Bourrel", "email": "Geoffbour@gmail.com"}, 
+           {"assocName": "IS", "firstName": "Gaetan", "lastName": "Santorin", "email": "Gasan@gmail.com"}, 
+           {"assocName": "CS", "firstName": "Quentin", "lastName": "Lauzeral", "email": "Lauzquent@gmail.com"}, 
+           {"assocName": "CS", "firstName": "Camille", "lastName": "Fabre", "email": "CamFab@gmail.com"} 
+      ]; 
+-->
+associations = [
+  {“name”: “IS”, “description”: “Information Systems”, “members”: 
+   [{“firstName”: “Dzenan”, “lastName”: “Ridjanovic”, “email”: “dr@gmail.com”},
+    {“firstName”: “Robert”, “lastName”: “Nelson”, “email”: “rn@gmail.com”}]},
+  {“name”: “CS”, “description”: “Computer Science”,  “members”: 
+   [{“firstName”: “David”, “lastName”: “Curtis”, “email”: “dc@gmail.com”}]}
+]
+ 
+-1 GIVEN ASSOCIATION
+Sort the list of members of a GIVEN ASSOCIATION first by the last name, 
+THEN by the first name.
+-1 THEN
+
+8.2
+-5
+8.2
+Create a CLASS MODEL with associations and members... 
+  
+
+---
+
 ?/20
 
 utilisez le dossier lib  (voir mes exemples)
