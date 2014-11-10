@@ -1,5 +1,18 @@
 ex06
 
+10/20
+
+-4
+utiliser le dossier lib  (voir mes exemples)
+
+-4
+supprimer les répertoires vides
+
+-2
+SVPL utilisez .gitignore et non .gitignore.txt
+
+---
+
 SVPL utilisez .gitignore et non .gitignore.txt
 
 ?/20
